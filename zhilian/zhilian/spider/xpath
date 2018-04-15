@@ -1,0 +1,21 @@
+标题: //div[@class='fixed-inner-box']/div[1]/h1/text()
+公司：//div[@class='fixed-inner-box']/div[1]/h2/a/text()
+标签：//div[@class='fixed-inner-box']/div[1]/div[1]/span/text() 多个
+职位月薪：//div[@class='terminalpage-left']/ul/li[1]/strong/text()
+工作地点：//div[@class='terminalpage-left']/ul/li[2]/strong/a/text()
+发布日期：//div[@class='terminalpage-left']/ul/li[3]/strong/span/text()
+工作性质：//div[@class='terminalpage-left']/ul/li[4]/strong/text()
+工作经验：//div[@class='terminalpage-left']/ul/li[5]/strong/text()
+最低学历：//div[@class='terminalpage-left']/ul/li[6]/strong/text()
+招聘人数：//div[@class='terminalpage-left']/ul/li[7]/strong/text()
+职位类别：//div[@class='terminalpage-left']/ul/li[8]/strong/a/text()
+岗位职责：//div[@class='tab-inner-cont']/p[2]/text()
+任职要求：//div[@class='tab-inner-cont']/p[3]/text()
+福利待遇：//div[@class='tab-inner-cont']/p[5]/text()
+工作地址：//div[@class='tab-inner-cont']/h2/text()
+
+http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%e6%ad%a6%e6%b1%89&sm=0&isfilter=1&re=2058&sg=cf684eae75614a61a435cbd95623d86d&p=2
+http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%e6%ad%a6%e6%b1%89&sm=0&isfilter=1&re=2061&sg=f9befd77bd1a491db04380cd4f529d16&p=10
+
+/jobs/searchresult.ashx?jl=%e6%ad%a6%e6%b1%89&sm=0&isfilter=1&p=1&re=2062
+/jobs/searchresult.ashx?jl=%e6%ad%a6%e6%b1%89&sm=0&isfilter=1&p=1&re=2065
